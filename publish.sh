@@ -173,11 +173,13 @@ SSH_URL="git@github.com:${GH_ORG}/${GH_REPO}.git"
 if [ "$AUTH_MODE" = "ssh" ]; then
   git remote remove origin 2>/dev/null || true
   git remote add origin "$SSH_URL"
-  PUSH_ARGS=()
-  if [ "$FORCE_PUSH" = true ]; then PUSH_ARGS+=("-f"); fi
 
   echo "[+] Pushing to $SSH_URL via SSH..."
-  git push "${PUSH_ARGS[@]}" origin main
+  if [ "$FORCE_PUSH" = true ]; then
+    git push -f origin main
+  else
+    git push origin main
+  fi
   git branch --set-upstream-to=origin/main main 2>/dev/null || true
   echo "[✓] Successfully published to GitHub via SSH!"
 
@@ -193,18 +195,21 @@ else
   git remote add origin "$SANITIZED_HTTPS_URL"
 
   AUTH_URL="https://${GH_ORG}:${PAT}@github.com/${GH_ORG}/${GH_REPO}.git"
-  PUSH_ARGS=()
-  if [ "$FORCE_PUSH" = true ]; then PUSH_ARGS+=("-f"); fi
 
   echo "[+] Pushing to $SANITIZED_HTTPS_URL..."
   # Push directly to target URL without saving the token in .git/config
-  git push "${PUSH_ARGS[@]}" "$AUTH_URL" main:main
+  if [ "$FORCE_PUSH" = true ]; then
+    git push -f "$AUTH_URL" main:main
+  else
+    git push "$AUTH_URL" main:main
+  fi
 
   # Configure sanitized tracking branch without embedding the token
   git config branch.main.remote origin
   git config branch.main.merge refs/heads/main
   echo "[✓] Successfully published to GitHub!"
 fi
+
 
 echo ""
 echo "================================================================="
