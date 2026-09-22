@@ -84,8 +84,8 @@ git push -u origin main
 
 ## 🏢 Contact & Verified Verification Metadata
 
-- **Legal Entity:** elf media Creative Media Production
-- **Brand URL:** [https://elfmedia.ae](https://elfmedia.ae)
+- **Legal Entity:** Sky Photography
+- **Brand & Outdoor Unit:** elf media ([https://elfmedia.ae](https://elfmedia.ae))
 - **Primary Landline (Voice OTP Support):** `+971 2 491 5967`
 - **Mobile / WhatsApp Direct:** `+971 54 399 1669`
 - **Corporate Inquiries:** `info@elfmedia.ae`
