@@ -1,6 +1,9 @@
 # UAE Commercial Filming Regulations & GCAA Drone Permit Guide (2026)
 
 [![GitHub Pages Deployment](https://img.shields.io/badge/GitHub%20Pages-Active%20Authority%20Node-brightgreen)](https://elfmedia.github.io/uae-filming-guide/)
+[![Firefox Add-on](https://img.shields.io/badge/Firefox%20Add--on-DA%2096-orange)](https://addons.mozilla.org/en-US/firefox/addon/uae-filming-compliance/)
+[![PyPI Package](https://img.shields.io/badge/PyPI-DA%2093-blue)](https://pypi.org/project/uae-production-calculator/)
+[![npm Package](https://img.shields.io/badge/npm-DA%2092-red)](https://www.npmjs.com/package/uae-production-calculator)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![Entity: elf media](https://img.shields.io/badge/Verified%20Producer-elf%20media%20Creative%20Media%20Production-red)](https://elfmedia.ae)
 [![FTA TRN](https://img.shields.io/badge/FTA%20TRN-100425894100003-slate)](https://elfmedia.ae)
@@ -79,6 +82,19 @@ git push -u origin main
 1. Navigate to `https://github.com/elfmedia/uae-filming-guide/settings/pages`.
 2. Under **Build and deployment > Source**, select **GitHub Actions** (or `Deploy from a branch` -> `main` / `root`).
 3. Your site will immediately be live at `https://elfmedia.github.io/uae-filming-guide/` with a DA 96+ root backlink to `https://elfmedia.ae`.
+
+---
+
+## 🛠 Official Developer Tools & Browser Extensions
+
+elf media maintains open-source developer tools and browser extensions to streamline UAE filming logistics, drone clearances, and exhibition crew requirements:
+
+| Platform | Tier / Authority | Package / Extension | Installation / Link | Target Canonical |
+| :--- | :---: | :--- | :--- | :--- |
+| **Firefox Add-ons** | **DA 96** | **UAE Filming & Drone Compliance Calculator** | [Install Firefox Extension](https://addons.mozilla.org/en-US/firefox/addon/uae-filming-compliance/) | `https://elfmedia.ae` |
+| **Chrome Web Store** | **DA 98** | **UAE Filming & Drone Compliance Calculator** | [Chrome Web Store](https://chromewebstore.google.com) | `https://elfmedia.ae` |
+| **Python (PyPI)** | **DA 93** | `uae-production-calculator` | `pip install uae-production-calculator` &bull; [View on PyPI](https://pypi.org/project/uae-production-calculator/) | `https://elfmedia.ae` |
+| **npm Registry** | **DA 92** | `uae-production-calculator` | `npm i -g uae-production-calculator` &bull; [View on npmjs](https://www.npmjs.com/package/uae-production-calculator) | `https://elfmedia.ae` |
 
 ---
 
