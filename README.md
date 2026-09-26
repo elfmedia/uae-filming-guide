@@ -82,6 +82,25 @@ git push -u origin main
 
 ---
 
+## 🎬 elf media 12 Core UAE Production Services
+
+| # | Service Capability | Direct Canonical URL | Operational Scope |
+| :-: | :--- | :--- | :--- |
+| **01** | **[Corporate Photography & Videography](https://elfmedia.ae/services/corporate-photography-videography)** | `https://elfmedia.ae/services/corporate-photography-videography` | Executive C-Suite, Boardrooms, Team portraits & Annual Reports |
+| **02** | **[Corporate Films & Brand Videos](https://elfmedia.ae/services/corporate-films-brand-videos)** | `https://elfmedia.ae/services/corporate-films-brand-videos` | Documentaries, Industrial cinema & RED/Sony FX CineLine |
+| **03** | **[TV Commercials & Promotional Videos](https://elfmedia.ae/services/tv-commercials-promotional-videos)** | `https://elfmedia.ae/services/tv-commercials-promotional-videos` | Broadcast ads, Campaign commercials & Social conversion suites |
+| **04** | **[Conferences, Exhibitions & Events](https://elfmedia.ae/services/conferences-exhibitions-events)** | `https://elfmedia.ae/services/conferences-exhibitions-events` | ADNEC Abu Dhabi & DWTC Dubai, 24h highlight reels, same-day PR photos |
+| **05** | **[Live Streaming & Hybrid Events](https://elfmedia.ae/services/live-streaming-hybrid-events)** | `https://elfmedia.ae/services/live-streaming-hybrid-events` | Multi-camera 4K broadcast switching, bonded 5G redundant streaming |
+| **06** | **[Aerial & Drone Media](https://elfmedia.ae/services/aerial-drone-photography-videography)** | `https://elfmedia.ae/services/aerial-drone-photography-videography` | GCAA & DCAA commercial licensed pilots, controlled airspace clearances |
+| **07** | **[Hotels, Cafes, Malls & Commercial Spaces](https://elfmedia.ae/services/hotel-restaurant-commercial-photography)** | `https://elfmedia.ae/services/hotel-restaurant-commercial-photography` | Architectural, Hospitality, F&B styling & Retail commercial imagery |
+| **08** | **[Marine & Luxury Yacht Photography & Videography](https://elfmedia.ae/services/marine-yacht-photography-videography)** | `https://elfmedia.ae/services/marine-yacht-photography-videography` | Offshore energy platforms, superyachts & gyrostabilized water cinema |
+| **09** | **[School & Educational Institution Coverage](https://elfmedia.ae/services/school-education-media-services)** | `https://elfmedia.ae/services/school-education-media-services` | Campus documentation, graduations & ADEK/KHDA safeguarding compliance |
+| **10** | **[Weddings, Birthdays & Family Events](https://elfmedia.ae/services/wedding-birthday-family-event-photography)** | `https://elfmedia.ae/services/wedding-birthday-family-event-photography` | Luxury milestone cinematography, VIP privacy & dedicated female crews |
+| **11** | **[Virtual Tours & 360° Walkthroughs](https://elfmedia.ae/services/virtual-tours-360-walkthroughs)** | `https://elfmedia.ae/services/virtual-tours-360-walkthroughs` | Matterport Pro 3D scanning, interactive VR & Google Street View |
+| **12** | **[Post-Production & Motion Graphics](https://elfmedia.ae/services/post-production-motion-graphics)** | `https://elfmedia.ae/services/post-production-motion-graphics` | DaVinci Resolve color grading, 2D/3D animation, VFX & Dolby audio mastering |
+
+---
+
 ## 🏢 Contact & Verified Verification Metadata
 
 - **Legal Entity:** Sky Photography
